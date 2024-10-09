@@ -1,0 +1,5 @@
+pydub
+openai-whisper
+resemblyzer
+spectralcluster
+colorama
